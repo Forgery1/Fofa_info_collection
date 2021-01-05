@@ -1,0 +1,2 @@
+# Fofa_info_collection
+fofa信息采集工具，需要自己设置email和apikey
