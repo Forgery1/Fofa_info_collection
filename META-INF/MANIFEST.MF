@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.forger.fofa.NewJFrame
+Class-Path: httpcore-4.4.4.jar commons-logging-1.2.jar commons-codec-1.9
+ .jar httpclient-4.5.2.jar
+
